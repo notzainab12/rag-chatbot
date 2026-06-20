@@ -111,19 +111,10 @@ http://localhost:8501
 *6. Generate answers using Groq LLM*
 
 ---
-
-## *Future Enhancements*
-
-*• ReAct Agent Integration*
-*• Multi-document support*
-*• Chat memory*
-*• Source citations*
-*• Cloud deployment*
-
 ---
 
 ## *Author*
 
 ***Zainab***
 *B.Tech *
-*IGDTUW stands for Indira Gandhi Delhi Technical University for Women*
+*Indira Gandhi Delhi Technical University for Women*
